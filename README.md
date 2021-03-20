@@ -1,5 +1,5 @@
 # Ender-5-pro-Firmware-bugfix2.0.x
-Flashable Firmware for ender 5 and ender 5 pro stock , without bed leveling probe or filament runout sensor.
+Flashable Firmware for ender 5 and ender 5 pro stock 4.2.2 Motherboards , without bed leveling probe or filament runout sensor.
 
 This firmware is for Ender 5 and Ender 5 pro that come in stock version.
 
