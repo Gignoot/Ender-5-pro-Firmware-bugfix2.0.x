@@ -30,7 +30,7 @@ Instructions to Flash the firmware:
 
 Put the firmware_20210320-220916.bin file on your SDCARD , turn off your printer, insert the sdcard into your printer and turn on the printer.
 
-Wait a few seconds for the bleu screen to go away and the initial boot screen appears.
+Wait a few seconds for the blue screen to go away and the initial boot screen appears.
 
 Go to advanced menu , and all the way at the bottom select "Initialize EEPROM", and confirm.
 
