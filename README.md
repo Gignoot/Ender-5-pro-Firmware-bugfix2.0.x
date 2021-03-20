@@ -34,6 +34,6 @@ Wait a few seconds for the blue screen to go away and the initial boot screen ap
 
 Go to advanced menu , and all the way at the bottom select "Initialize EEPROM", and confirm.
 
-You are ready to go with the latest firware and options.
+You are ready to go with the latest firmware and options.
 
 Succes.
