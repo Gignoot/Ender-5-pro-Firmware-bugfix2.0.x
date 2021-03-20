@@ -18,7 +18,7 @@ Note: print cooling fan needs a minimum of 20% setting in your slicer software b
 
 Instructions to Flash the firmware:
 
-Put the firmware*.bin file on your SDCARD , turn off your printer, insert the sdcard into your printer and turn on the printer.
+Put the firmware_20210320-220916.bin file on your SDCARD , turn off your printer, insert the sdcard into your printer and turn on the printer.
 
 Wait a few seconds for the bleu screen to go away and the initial boot screen appears.
 
