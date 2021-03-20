@@ -6,6 +6,7 @@ This firmware is for Ender 5 and Ender 5 pro that come in stock version.
 This firmware does not support a bed leveling probe or a filament runout sensor.
 
 Firmware includes : 
+
 -Universal Bed Leveling , to be done manual with a shim (feeler gauge) preferably 0.1 mm.
 -Bed corner leveling.
 -Filament change via menu (tuned for the long bowden tube).
