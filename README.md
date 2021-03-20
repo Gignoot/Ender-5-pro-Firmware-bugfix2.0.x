@@ -14,3 +14,16 @@ Firmware includes  -Universal Bed Leveling , to be done manual with a shim (feel
                                -Power outage rescue function
 
 Note: print cooling fan needs a minimum of 20% setting in your slicer software before it will start spinning.
+
+
+Instructions to Flash the firmware:
+
+Put the firmware*.bin file on your SDCARD , turn off your printer, insert the sdcard into your printer and turn on the printer.
+
+Wait a few seconds for the bleu screen to go away and the initial boot screen appears.
+
+Go to advanced menu , and all the way at the bottom select "Initialize EEPROM", and confirm.
+
+You are ready to go with the latest firware and options.
+
+Succes.
